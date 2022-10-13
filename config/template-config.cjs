@@ -20,24 +20,23 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
-      {{notice.DATA}}
-      
-      {{earthy_love_words.DATA}}
-      
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
       
-      {{birthday_message.DATA}}
-      
       今日运势：
       
       {{career_horoscope.DATA}}
-
       
+      {{birthday_message.DATA}}
+
       ---      
       
-      {{note_ch.DATA}} {{note_en.DATA}}
+      {{note_ch.DATA}}
+      
+      {{note_en.DATA}}
+      
+      {{notice.DATA}}
     `
   },
   {
