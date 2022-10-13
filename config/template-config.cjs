@@ -20,7 +20,9 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
+            {{notice.DATA}}
+      
+      {{earthy_love_words.DATA}}
       
       ---
       
@@ -28,11 +30,12 @@ const TEMPLATE_CONFIG = [
       
       {{birthday_message.DATA}}
       
-      ---
+      {{career_horoscope.DATA}}
+
       
-      {{moment_copyrighting.DATA}}
+      ---      
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{note_ch.DATA}} {{note_en.DATA}}
     `
   },
   {
